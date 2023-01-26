@@ -1,16 +1,3 @@
 # tic_tac_toe
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a Tic Tac Toe game built using Flutter where the user plays against the computer. The game board is 3x3 and the user can place their "X" marks and the computer places "O" marks randomly. The game checks for win or draw conditions, and the game will display a message to the user when the game is over. The game also has a reset button to start a new game. 
